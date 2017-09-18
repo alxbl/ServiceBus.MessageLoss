@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JobFeeder", "JobFeeder\JobFeeder.csproj", "{5683A197-722B-477D-AB29-4ED418D2CB0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "Common\Common.csproj", "{87C17797-33F7-4330-9084-760D996B9D2A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DemoWebjob", "DemoWebjob\DemoWebjob.csproj", "{1E5E503D-C058-4D02-868F-3995056C274B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5683A197-722B-477D-AB29-4ED418D2CB0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5683A197-722B-477D-AB29-4ED418D2CB0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5683A197-722B-477D-AB29-4ED418D2CB0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5683A197-722B-477D-AB29-4ED418D2CB0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87C17797-33F7-4330-9084-760D996B9D2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87C17797-33F7-4330-9084-760D996B9D2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87C17797-33F7-4330-9084-760D996B9D2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87C17797-33F7-4330-9084-760D996B9D2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E5E503D-C058-4D02-868F-3995056C274B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E5E503D-C058-4D02-868F-3995056C274B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E5E503D-C058-4D02-868F-3995056C274B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E5E503D-C058-4D02-868F-3995056C274B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8BD14E71-90EF-43AA-A4FD-3087E89B2B60}
+	EndGlobalSection
+EndGlobal
